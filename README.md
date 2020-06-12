@@ -1,5 +1,5 @@
 # Video-Broadcasting-API
-###Prerequisite:
+### Prerequisite:
 1. VS code editor with the live server plugin installed.
 
 ### Steps:
